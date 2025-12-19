@@ -2,6 +2,8 @@
 
 A simple Python tool to safely perform bulk deletion of your GitHub repositories.
 
+![Demo](images/demo.gif)
+
 ## Prerequisites
 
 - Python 3.x
